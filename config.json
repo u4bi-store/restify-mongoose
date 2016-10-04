@@ -1,0 +1,4 @@
+{
+    "db_path": "mongodb://localhost/rest-api",
+    "port": 8000
+}
